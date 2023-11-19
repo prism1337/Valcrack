@@ -1,0 +1,2 @@
+# input https proxy in IP:PORT (LOGIN:PASSWORD@IP:PORT) format
+# input socks5 proxy in socks5://IP:PORT (socks5://LOGIN:PASSWORD@IP:PORT) format
